@@ -1,5 +1,5 @@
 # Projeto Interface Web
-Projeto secundário de Interface estrutural Front-End de Web Site em Bootstrap 4. 
+Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4. 
 <ul>
   <li>Npm</li>
   <li>Sass</li>
