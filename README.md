@@ -7,7 +7,7 @@ Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4
   <li>Popover</li>
   <li>Navbar</li>
   <li>Carousel</li>
-  <li>ScrollSpy</li>
+  <li>Scrollspy</li>
   <li>Card</li>
   <li>Modal</li>
   <li>Nav Pill</li>
