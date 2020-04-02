@@ -1,7 +1,6 @@
 # Projeto Portfólio - Interface Web
 Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4. 
 <ul>
-  <li>Npm</li>
   <li>Sass</li>
   <li>Font Awesome</li>
   <li>Popover</li>
