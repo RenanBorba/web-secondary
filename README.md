@@ -1,5 +1,24 @@
+<div align="center">
+
 # Projeto Portfólio - Interface Web
+
+</div>
+
+<br>
+
+<div align="center">
+  
+[![Build Status](https://img.shields.io/github/stars/RenanBorba/web-secondary.svg)](https://github.com/RenanBorba/web-secondary)
+
+</div>
+
+<br>
+
 Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4. 
+
+<br><br>
+
+## :rocket: Tecnologias 
 <ul>
   <li>Sass</li>
   <li>Font Awesome</li>
