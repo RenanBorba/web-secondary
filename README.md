@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  
+
 [![Build Status](https://img.shields.io/github/stars/RenanBorba/web-secondary.svg)](https://github.com/RenanBorba/web-secondary)
 
 </div>
@@ -17,7 +17,6 @@
 Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4. 
 
 <br><br>
-
 
 ## :rocket: Tecnologias 
 <ul>
@@ -33,8 +32,8 @@ Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4
   <li>Jumbotron</li>
   <li>List Group</li>
 </ul>
-<br><br> 
 
+<br><br> 
 
 ## Interface principal
 
