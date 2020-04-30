@@ -16,7 +16,7 @@
 
 Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4. 
 
-<br><br>
+<br>
 
 ## :rocket: Tecnologias 
 <ul>
