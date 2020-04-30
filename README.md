@@ -14,11 +14,11 @@
 
 <br>
 
-Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4. 
+Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4.
 
 <br>
 
-## :rocket: Tecnologias 
+## :rocket: Tecnologias
 <ul>
   <li>Sass</li>
   <li>Font Awesome</li>
