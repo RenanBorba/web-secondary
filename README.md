@@ -33,7 +33,7 @@ Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4
   <li>List Group</li>
 </ul>
 
-<br><br> 
+<br><br>
 
 ## Interface principal
 
