@@ -18,6 +18,14 @@ Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4
 
 <br><br>
 
+<div align="center">
+
+![estru](https://user-images.githubusercontent.com/48495838/84799165-4000ab00-afd2-11ea-81f1-ceacc4d0df4e.png)
+
+</div>
+
+<br><br>
+
 ## :rocket: Tecnologias
 <ul>
   <li>Sass</li>
