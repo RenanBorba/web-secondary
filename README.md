@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/web-secondary.svg)](https://github.com/RenanBorba/web-secondary)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/web-secondary.svg)](https://github.com/RenanBorba/web-secondary) [![Build Status](https://img.shields.io/github/forks/RenanBorba/web-secondary.svg)](https://github.com/RenanBorba/web-secondary) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
 
@@ -65,7 +65,3 @@ Projeto secundário de Interface estrutural Front-End de web site em Bootstrap 4
 ## Interface principal
 
 ![21](https://user-images.githubusercontent.com/48495838/54633449-f6d44b00-4a5e-11e9-8a73-74dbbafa5f28.jpg)
-
-<br><br><br>
-
-Renan Borba.
